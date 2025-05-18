@@ -1,1 +1,9 @@
 # ArquiteturaAzure
+
+Ao longo da minha jornada de aprendizado no ambiente Azure, obtive um entendimento considerável acerca da estruturação e administração de máquinas virtuais, bases de dados SQL e aplicações de função. Primeiramente, investiguei o método de criação de máquinas virtuais (VMs), entendendo como organizar recursos computacionais, estabelecer sistemas operativos e ajustar especificações como CPU, memória e armazenamento para satisfazer os requisitos exclusivos de cada empreendimento. Também aprendi a administrar a conexão através de redes virtuais e programar normas de firewall para assegurar a proteção dos servidores.
+
+Posteriormente, aprofundei o meu saber sobre a criação e manutenção de bases de dados SQL no Azure. Compreendi como configurar instâncias de base de dados, determinar modelos de custo com base no desempenho e executar estratégias de salvaguarda e recuperação para assegurar a integridade dos dados. A utilização de instrumentos de monitorização também se manifestou fundamental para vigiar o desempenho e reconhecer possíveis constrangimentos na execução de consultas e operações.
+
+Ademais, desenvolvi capacidades na criação de aplicações de função (Azure Functions), entendendo como construir e implantar funções serverless para realizar tarefas mediante solicitação ou em resposta a ocorrências concretas. A integração com outros serviços da plataforma viabilizou a criação de soluções automatizadas e dimensionáveis, aproveitando a capacidade flexível da nuvem para garantir elevada disponibilidade.
+
+Essa experiência prática e teórica me conferiu uma perspetiva englobante sobre os principais recursos do Azure, robustecendo as minhas competências para implementar soluções eficazes e seguras, tanto no contexto de infraestrutura como no desenvolvimento de aplicações modernas e automatizadas.
